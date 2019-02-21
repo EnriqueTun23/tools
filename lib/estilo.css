@@ -1,6 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
 .blue {
     color: blue;
 }
 .fa32 {
     font-size: 34px;
+}
+.fuente{
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+}
+.fuente2 {
+    font-family: 'Indie Flower', cursive;
+}
+.blokkfont {
+    font-family: BLOKK;
 }
